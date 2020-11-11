@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">architecture</string>
+    <string name="requesting">请求网络中...</string>
+</resources>
