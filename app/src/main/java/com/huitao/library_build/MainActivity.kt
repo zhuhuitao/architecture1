@@ -1,4 +1,4 @@
-package com.huitao.architecture
+package com.huitao.library_build
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
